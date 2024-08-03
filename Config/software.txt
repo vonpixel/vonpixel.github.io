@@ -1,10 +1,8 @@
-Blender
-3ds Max
+Modo
 Unity
-Zbrush
+Unreal
 Adobe Photoshop
 Topogun
 Substance 3d Painter
-Marvelous Designer
-Maya
-Marmoset Toolbag
+Reality Capture
+Adobe After Effects
