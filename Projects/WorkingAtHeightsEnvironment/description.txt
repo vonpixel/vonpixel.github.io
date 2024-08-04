@@ -2,7 +2,7 @@ Working At Hieghts Environment
 ---
 We needed a realistic environment for a working at heights demo targeting VR (the original Occulus rift). We needed an interior and it had to feel dangerous and imposing in the VR world. We scanned the interior of a abandoned building with the blessing of the park's community organization with a team of two. We used lighting DSLRs and a drone to capture over 10k pictures which we then fed through reality capture to get a beautiful high resolution scan. I then used Modo to retopologize and work the model into a VR friendly light weight mesh and to bake down the details into new lighter weight texture UVs. That was then brought into Substance Painter for further texturing and then assembled in Unity. We scanned a number of rubble piles inside too and used those to create dangerous piles around. The rest of the props were created by me and kept light on the poly counts to keep performance in VR as stable as possible. Lighting was baked using some of the natural light from the textures worked into emissive channels and augmented by area lights. 
 ---
-Reality Capture, Lightroom, Modo, Substance Painter, Unity
+Reality Capture, Lightroom, Modo, Substance Painter, Unity, Photoshop
 ---
 Thumb.jpg 
 ---
