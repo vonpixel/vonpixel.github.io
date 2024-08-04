@@ -2,11 +2,12 @@
 # When you add one then productions.js will automatically add it after saving
 # Format: Title, Company, Time, Thumbnail URL, Description 
 ---
-Principal 3D Artist
+Lead 3D Artist
 Dapphaus
 Date (i.e 2020-present or 2016-2023)
 https://productionimage.jpg 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sodales justo vitae lacinia ornare. Pellentesque commodo mollis velit, finibus malesuada elit bibendum ut. Mauris sit amet nisi ante. Ut commodo auctor lorem id elementum. Ut at arcu congue, dictum est a, egestas neque. Aenean ipsum ipsum, elementum sit amet vehicula eu, congue sit amet risus. Aliquam a sem ac eros feugiat blandit vestibulum non diam.
+As the lead 3D artist at Dapphaus my role was to oversee a small team of artists and work with the developer team and meet with clients and develop creative direction of various projects. I would manage a small team of artists and create 3D assets and other artworks ranging from concept art to beyond. With the development team we would work together to identify the needs of the project and come up with solutions and techniques. With clients I would meet to help scope out the art side of the project and travel to work sites to gather reference images or learn how to operate machines so our digital twins would look correct. I was also responsible for contributing to pre production planning and figuring out scope to delegate to our small team.
+
 ---
 Senior 3D Artist
 Kearns Technology

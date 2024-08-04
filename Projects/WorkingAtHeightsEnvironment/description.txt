@@ -4,6 +4,6 @@ We needed a realistic environment for a working at heights demo targeting VR (th
 ---
 Reality Capture, Lightroom, Modo, Substance Painter, Unity
 ---
-thumbnail url (gets injected into your landing page) 
+Thumb.jpg 
 ---
 WorkingAtHeightsEnvironment.html
