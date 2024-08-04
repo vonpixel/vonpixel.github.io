@@ -1,17 +1,19 @@
-https://www.dropbox.com/scl/fi/7s1ntnze3im7swavbb6tn/von-pixel-wbi-01-copy.jpg?rlkey=6jlmuj81zdpixdjn30flawkxe&dl=0
-Descriptions go under each image like this! png/jpeg/jpg/gif supported.
+von-pixel-wbi-01-copy.jpg
 
-https://example2.jpg
-Description for example2.jpg.
+von-pixel-wbi-02-copy.jpg
 
-https://example3.gif
-These aren't real images but need replacing with your own.
+von-pixel-wbi-03-copy.jpg
 
-https://examplevideo.mp4
-MP4's are also supported but like with images should be hosted somewhere like dropbox.
+von-pixel-wbi-04-copy.jpg
 
-https://beforepic.png // https://afterpic.png
-You can create before and after slider by seperating two urls with ' // ' 
+von-pixel-wbi-05-copy.jpg
 
-https://sketchfabexample.com 
-you can also embed sketchfab files by pasting the url, no need for direct embedd urls. 
+von-pixel-wbi-06-copy.jpg
+
+von-pixel-wbi-07-copy.jpg
+
+von-pixel-wbi-08-copy.jpg
+
+von-pixel-wbi-09-copy.jpg
+
+
