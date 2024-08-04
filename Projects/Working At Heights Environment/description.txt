@@ -1,9 +1,9 @@
-Project Name
+Working At Hieghts Environment
 ---
-Project Description
+We needed a realistic environment for a working at heights 
 ---
 Software Tags - separated by commas (marmoset toolbag, unity, UE5, Blender, 3ds Max)
 ---
 thumbnail url (gets injected into your landing page) 
 ---
-name of project html ("bigmegagun.html" for example - make sure you rename the template html)
+Working At Heights Environment.html
