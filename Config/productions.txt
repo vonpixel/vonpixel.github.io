@@ -2,20 +2,20 @@
 # When you add one then productions.js will automatically add it after saving
 # Format: Title, Company, Time, Thumbnail URL, Description 
 ---
-Principal 3D Artist
-Dapphaus
+Role
+Company
 Date (i.e 2020-present or 2016-2023)
 https://productionimage.jpg 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sodales justo vitae lacinia ornare. Pellentesque commodo mollis velit, finibus malesuada elit bibendum ut. Mauris sit amet nisi ante. Ut commodo auctor lorem id elementum. Ut at arcu congue, dictum est a, egestas neque. Aenean ipsum ipsum, elementum sit amet vehicula eu, congue sit amet risus. Aliquam a sem ac eros feugiat blandit vestibulum non diam.
 ---
-Senior 3D Artist
-Kearns Technology
+Role
+Company
 Date (i.e 2020-present or 2016-2023)
 https://productionimage.jpg 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sodales justo vitae lacinia ornare. Pellentesque commodo mollis velit, finibus malesuada elit bibendum ut. Mauris sit amet nisi ante. Ut commodo auctor lorem id elementum. Ut at arcu congue, dictum est a, egestas neque. Aenean ipsum ipsum, elementum sit amet vehicula eu, congue sit amet risus. Aliquam a sem ac eros feugiat blandit vestibulum non diam.
 ---
-3D Generalist / VFX / Motion Designer
-Freelance
+Role
+Company
 Date (i.e 2020-present or 2016-2023)
 https://productionimage.jpg 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sodales justo vitae lacinia ornare. Pellentesque commodo mollis velit, finibus malesuada elit bibendum ut. Mauris sit amet nisi ante. Ut commodo auctor lorem id elementum. Ut at arcu congue, dictum est a, egestas neque. Aenean ipsum ipsum, elementum sit amet vehicula eu, congue sit amet risus. Aliquam a sem ac eros feugiat blandit vestibulum non diam.

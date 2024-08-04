@@ -5,8 +5,7 @@ High Poly Modelling
 UV-Unwrapping
 Retopology
 Hand-painted Texturing
-Hard Surface Modelling
+Weapon Modelling
 Environment Art
 Tileable Materials
-Photogrammetry
-Node Based Shaders
+punching faces
