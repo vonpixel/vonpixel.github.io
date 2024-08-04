@@ -4,6 +4,6 @@ We needed a realistic environment for a working at heights demo targeting VR (th
 ---
 Reality Capture, Lightroom, Modo, Substance Painter, Unity, Photoshop
 ---
-Thumb.jpg 
+WorkingAtHeightsThumb.jpg
 ---
 WorkingAtHeightsEnvironment.html
