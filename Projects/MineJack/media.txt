@@ -1,7 +1,7 @@
 MineJack_TT.mp4
 Mine Jack turntable with and without wireframe.
 
-MineJack_2024_00.jpg // MineJack_2024_00_wire.jpg
+MineJack_2024_00.jpg
 
 MineJack_2024_01.jpg
 
