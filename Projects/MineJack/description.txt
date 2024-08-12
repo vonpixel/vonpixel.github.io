@@ -1,9 +1,9 @@
-Project Name
+Mine Jack
 ---
-Project Description
+A mining company required a light weight 3D model of a custom built vehicle for inspecting mine tunnels. They needed a model to do VR training for safety spot checks before operating the vehicle. The project had some challanges as the vehicle could not be moved outside and every reference photo was in a pitch black tunnel with a bright flash. Figuring out the shape of the machine was a challenge. The model also had a turn around time of a week to be ready for demonstation at a mining conference.The client had requested the model be under 100k tris and 4 materials or less.
 ---
-Software Tags - separated by commas (marmoset toolbag, unity, UE5, Blender, 3ds Max)
+Modo, Substance Painter
 ---
-thumbnail url (gets injected into your landing page) 
+MineJackThumb.jpg
 ---
-name of project html ("xyz.html" for example - make sure you rename the template html)
+MineJack.html

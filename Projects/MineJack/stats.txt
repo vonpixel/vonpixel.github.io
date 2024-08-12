@@ -1,13 +1,10 @@
-Triangles: 
+Triangles: 84,231
 
-Materials: 
+Materials: 4
 
-Texture Size: 
+Texture Size: 3x4096 1x2048
 
-Texel Density: 
+ 
 
-Workflow: 
+Target Engine: Unity / Occulus Quest
 
-Target Engine: 
-
-Collaborators:

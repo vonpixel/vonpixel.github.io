@@ -1,17 +1,18 @@
-https://example1.png
-Descriptions go under each image like this! png/jpeg/jpg/gif supported.
+MineJack_TT,mp4
+Mine Jack turntable with and without wireframe.
 
-https://example2.jpg
-Description for example2.jpg.
+MineJack_2024_00.jpg // MineJack_2024_00_wire.jpg
 
-https://example3.gif
-These aren't real images but need replacing with your own.
+MineJack_2024_01.jpg
 
-https://examplevideo.mp4
-MP4's are also supported but like with images should be hosted somewhere like dropbox.
+MineJack_2024_02.jpg
 
-https://beforepic.png // https://afterpic.png
-You can create before and after slider by seperating two urls with ' // ' 
+MineJack_2024_03.jpg
 
-https://sketchfabexample.com 
-you can also embed sketchfab files by pasting the url, no need for direct embedd urls. 
+MineJack_2024_04.jpg
+
+MineJack_2024_05.jpg
+
+MineJack_2024_06.jpg
+
+MineJack_2024_Reference.jpg
