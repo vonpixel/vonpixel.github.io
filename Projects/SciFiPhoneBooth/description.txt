@@ -1,0 +1,9 @@
+SciFi Phone Booth
+---
+A hero prop created for a short cinematic [Night Snack 20XX]. The goal here was to use some higher resolution texture work to hand paint a lot of graffiti covering all sides the prop.
+---
+Modo, Substance Painter, Photoshop, Unreal
+---
+Scifiphonebooth.jpg
+---
+SciFiPhoneBooth.html
