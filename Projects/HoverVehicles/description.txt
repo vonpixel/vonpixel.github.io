@@ -1,0 +1,9 @@
+Hover Vehicle Collection 1
+---
+I created this collection of hover vehicles with a very specific goal- light weight props I could use in cinematics for a sci fi cinematic project. I gathered photos while out and about and used very simple photobashing techniques to build some texture sheets. From there I built the 3d models from those textures and added details. It is a slightly backwards approach to design but was immensely fun. These vehicles have ended up in the backgrounds of quite a few things.
+---
+Modo, Substance Painter, Photoshop, DSLR
+---
+HoverVehicle1Thumb.jpg
+---
+HoverVehicles.html
