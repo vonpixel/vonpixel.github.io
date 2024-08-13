@@ -1,13 +1,6 @@
-Triangles: 
+Triangles: 2k - 6k
 
-Materials: 
+Materials: 1 each vehicle
 
-Texture Size: 
+Texture Size: 4069
 
-Texel Density: 
-
-Workflow: 
-
-Target Engine: 
-
-Collaborators:
