@@ -1,0 +1,11 @@
+Triangles: 474,143
+
+Materials: 12 x UDIMS / 3 Additional
+
+Texture Size: 12 x 4046 / 3 x 2048
+
+Workflow: Mid poly / High poly bake / UDIMS / Unreal Material Shaders
+
+Target Engine: Unreal Cinematic 
+
+Collaborators:
