@@ -1,0 +1,9 @@
+Nite Snack 20XX
+---
+A personal project to create a short moody cinematic about my Shawarma Mech stomping around a city searching from hungry people in the night. The real goal behind the project was a way to dip my toes deeper into UE5 and explore work flows with it and to test out what my new 3080ti card could push out. 
+---
+Modo, Unreal, Substance Painter, Resolve, After Effects, Photoshop, Reality Capture, Polycam
+---
+NiteSnak.jpg
+---
+NiteSnak.html
