@@ -1,8 +1,8 @@
-Project Name
+Elesim Training Environment 
 ---
-Project Description
+Elesim was a training program developed to aid in training elevator and escalator technicians and union members. I was responsible for all 3d art on the project from the environment to the props and assets used. There was a large amount of technical information that had to be digested and understood before work could even begin. The environment was requested to be giant office building in a downtown location that could eventually house multiple types of elevators and escalators. Development of the environment also had to be able to serve a dual purpose of being able to run on low end machines and be VR friendly while aiming at being the "Call Of Duty of elevator repair".
 ---
-Software Tags - separated by commas (marmoset toolbag, unity, UE5, Blender, 3ds Max)
+Modo, Substance Painter, Substance Designer, Unity, Quixel Suite 2.0, Photoshop, Blender
 ---
 thumbnail url (gets injected into your landing page) 
 ---
