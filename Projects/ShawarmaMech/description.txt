@@ -2,7 +2,7 @@ Shawarma Mech
 ---
 Shawarma Mech was a project created during the pandemic in 2019. I greatly missed shawarma places and the night time and set out to create a mech that dishes out tasty sandwiches. The idea eventually evolved into a small cinematic (check the Night Snack 20XX project). I have a deep love for mechs and wanted to create something that wasn't war based or designed for fighting. The concept street food mechs is something I think about revisiting often. I ended up designing the mech to live in a medium poly range. Something that could run in real time in Unreal was the goal- but the end result was ment to be cinematic- but still renderable and workable. I opted for a UDIM workflow wanting to cover the machine in as much custom detail / stickers and graffiti as I wanted.
 ---
-Modo, Substance Painter
+Modo, Substance Painter, Reality Capture
 ---
 ShaMechThumb.jpg
 ---
