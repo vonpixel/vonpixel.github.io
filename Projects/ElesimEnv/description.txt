@@ -4,6 +4,6 @@ Elesim was a training program developed to aid in training elevator and escalato
 ---
 Modo, Substance Painter, Substance Designer, Unity, Quixel Suite 2.0, Photoshop, Blender
 ---
-thumbnail url (gets injected into your landing page) 
+ElesimENVThumb.jpg
 ---
-name of project html ("xyz.html" for example - make sure you rename the template html)
+ElesimEnv.html
