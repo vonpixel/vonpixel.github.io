@@ -1,17 +1,33 @@
-https://example1.png
-Descriptions go under each image like this! png/jpeg/jpg/gif supported.
+LC_01.jpg
 
-https://example2.jpg
-Description for example2.jpg.
+LC_02.jpg
 
-https://example3.gif
-These aren't real images but need replacing with your own.
+LC_03.jpg
 
-https://examplevideo.mp4
-MP4's are also supported but like with images should be hosted somewhere like dropbox.
+LC_04.jpg
 
-https://beforepic.png // https://afterpic.png
-You can create before and after slider by seperating two urls with ' // ' 
+LC_05.jpg
 
-https://sketchfabexample.com 
-you can also embed sketchfab files by pasting the url, no need for direct embedd urls. 
+LC_06.jpg
+
+LC_07.jpg
+
+LC_08.jpg
+
+LC_09.jpg
+
+LC_10.jpg
+
+LC_11.jpg
+
+LC_12.jpg
+
+LC_13.jpg
+
+LC_14.jpg
+
+LC_15.jpg
+
+LC_16.jpg
+
+LC_17.jpg
