@@ -1,0 +1,9 @@
+CardboardExperiment
+---
+This was a small experiment to test a potential workflow using Polycam (or Reality Capture) to scan cool looking pieces of card board packaging to help in creation of interesting terrain. Heavily inspired by my teen years of playing table top war gaming (I played so many different games) and making terrain out of various pieces of things I could find around the house. The idea turned out pretty well and is something that I have been revisiting quite often to help build a library of interesting meshes to work with. I posted the little experiment on social media and the post got picked up by both 80.lv and Polycam themselves! Ive since been collecting all kinds of neat styrofoam pieces and developing tri-planner and procedural shaders to help bring the pieces into various scenes. 
+---
+Modo, Substance Painter, Polycam, Photoshop, After Effects
+---
+CardboardExperimentThumb.jpg
+---
+CardboardExperiment.html
