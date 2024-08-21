@@ -1,0 +1,9 @@
+Safety Meta World Environments
+---
+Safety Meta World is an upcoming safety training online "metaverse" designed to take users through a large number of training modules. Users can enter a hub campus where they can choose their lessons, review content and customize their avatars. The project runs in webGL in the browser and required a large amount of optimization to hit performance targets. There was a very fast turn around on this project with approx 6 months dedicated to all art / animation and level creation so that the learning content team could implement the lessons. 
+---
+Modo, Substance, Unity, WebGL
+---
+SMWThumb.jpg
+---
+SMW.html

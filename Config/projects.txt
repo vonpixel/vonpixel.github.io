@@ -7,5 +7,6 @@ HoverVehicles
 CardboardExperiment
 MineJack
 WorkingAtHeightsEnvironment
+SMW
 ElesimEnv
 VFXReel2016
