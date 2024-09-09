@@ -1,0 +1,9 @@
+Safety Meta World: Learning Environments
+---
+Safety Meta World needed environments to serve as back drops for 36 lessons of learning content releated to work place safety in a variety of scenarios. We honed in on a generic industrial kitchen / packaging warehouse as development of the learning content was happening in tandem with environment / animation and course building leading to tigtht turn arounds. The project also had to account for WebGL and very low end computers resulting in a total of 512mb of memory availble for all materials / geometry / animations and lighting. The learning content ranged from refusal of dangerous work to identifying hazaards and emgerency response to earthquakes / fire and flooding.
+---
+Unity, WebGL, Modo, Substance Painter, Photoshop
+---
+SMW_LE_Thumb.jpg
+---
+SMWLE.html

@@ -1,0 +1,13 @@
+Triangles: 
+
+Materials: 
+
+Texture Size: 
+
+Texel Density: Sub 256mb total
+
+Workflow: 
+
+Target Engine: WebGL / Unity
+
+Collaborators:

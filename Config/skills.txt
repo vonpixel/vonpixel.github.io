@@ -9,4 +9,8 @@ Hard Surface Modelling
 Environment Art
 Tileable Materials
 Photogrammetry
+Compositing
+Colour Correction
+Online Editing
+Motion Tracking
 Node Based Shaders

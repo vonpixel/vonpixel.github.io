@@ -5,19 +5,19 @@
 Lead 3D Artist
 Dapphaus
 Date 2020 - 2024
-https://productionimage.jpg 
-As the lead 3D artist at Dapphaus my role was to oversee a small team of artists and work with the developer team and meet with clients and develop creative direction of various projects. I would manage a small team of artists and create 3D assets and other artworks ranging from concept art to beyond. With the development team we would work together to identify the needs of the project and come up with solutions and techniques. I also served as a technical artist developing workflows and methods for meeting optimization challenges. With clients I would meet to help scope out the art side of the project and travel to work sites to gather reference images or learn how to operate machines so our digital twins would look correct. I was also responsible for contributing to pre production planning and figuring out scope to delegate to our small team.
+dapphaus_logo.jpg 
+As the lead 3D artist at Dapphaus my role was to oversee a small team of artists and work with the developer team and meet with clients and develop creative direction of various projects. I managed a small team of artists and created 3D assets and other artworks ranging from concept art to 3D models / animations and simulations. With the development team we would work together to identify the needs of the project and come up with solutions and techniques. I also served as a technical artist developing workflows and methods for meeting optimization challenges related to WebGL and VR. With clients I would meet to help scope out the art side of the project and travel to work sites to gather reference images and 3d scans (Lidar / photogrammetry) or learn how to operate machines so our digital twins would look correct. I was also responsible for contributing to pre production planning and figuring out scope to delegate to our small team.
 
 ---
 Senior 3D Artist
 Kearns Technology
 Date 2016 - 2020
-https://productionimage.jpg 
-At Kearns Technology I served as the sensior 3D artist on a large project to develop a training simulation to aid an elevator and escalator union. My role was to help the team develop 3D art pipelines and asset creation from props to environment. I also over saw a small team of artists.
+kearns_technology_inc_logo.jpg
+At Kearns Technology I served as the sensior 3D artist on a large project to develop a training simulation to aid an elevator and escalator union. My role was to help the team develop 3D art pipelines and asset creation from props to environment. I also over saw a small team of artists and worked with the development team to bring together complex learning tasks into a 3D interactive environment. I was also heavily responsible for research and development of the training material and helping translate that into gameplay mechanics.
 ---
 3D Generalist / VFX / Motion Designer
 Freelance
 Date 2008 - 2016
-https://productionimage.jpg 
-As a freelance artist I worked on hundreds of music videos / commericals / feature films and television shows as a colorist and online editor. I also worked doing motion graphics for a number of different clients / agencies and vfx studios. I assisted in on set VFX supervision for many projects. 
+VP_PFP.jpg
+As a freelance artist I worked on hundreds of music videos / commericals / feature films and television shows as a colorist and online editor. I also worked doing motion graphics for a number of different clients / agencies and vfx studios doing show indentity packages / title sequences / vfx and compositing of CGI and sports broadcast graphics. I assisted in on set VFX supervision for many projects. Which included film / commercials and music videos. 
 ---

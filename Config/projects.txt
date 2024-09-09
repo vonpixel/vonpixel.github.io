@@ -8,5 +8,6 @@ CardboardExperiment
 MineJack
 WorkingAtHeightsEnvironment
 SMW
+SMWLE
 ElesimEnv
 VFXReel2016
