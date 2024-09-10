@@ -1,0 +1,6 @@
+SMWLT_01.jpg
+
+SMWLT_02.jpg
+
+SMWLT_03A.jpg // SMWLT_03B.jpg
+You can create before and after slider by seperating two urls with ' // ' 

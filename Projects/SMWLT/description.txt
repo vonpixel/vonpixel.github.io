@@ -1,0 +1,9 @@
+SMW Interaction Terminals
+---
+Interaction terminals designed for Safety Meta World. The terminals were designed to be analogs to various things the user could do such as launch learning courses and lessons, review learning material through a library and customize their avatars in the shop.
+---
+Procreate, Modo, Substance Painter, Unreal, Unity
+---
+LearningTerminalsThumb.jpg
+---
+SMWTER.html
