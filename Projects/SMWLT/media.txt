@@ -1,3 +1,7 @@
+AVA.mp4
+
+SMW_LT_AV_COR.jpg // SMW_LT_AV_WIRE.jpg
+
 COR.mp4
 
 SMW_LT_COR.jpg // SMW_LT_COR_WIRE.jpg
