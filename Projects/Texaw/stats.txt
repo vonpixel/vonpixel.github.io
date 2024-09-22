@@ -1,0 +1,13 @@
+Triangles: 6015
+
+Materials: 2 (Body + Head)
+
+Texture Size: 4096
+
+Texel Density: 
+
+Workflow: 
+
+Target Engine: Unreal
+
+Collaborators:

@@ -1,0 +1,9 @@
+Texaw
+---
+Texaw is a lizard mechanic for a personal game project Im working on when I can find the time. He specializes in repairing technology found by the ancient colonists and will help the player obtain their first vehicle and assist with upgrades. Characters are somewhat out of my comfort zone so it was really fun to dive in with him and get to know the Automatic Character System for Modo in more depth and experiment with rigging.
+---
+Modo, ACS3 (Automatic Character System), Substance Painter, Unreal 
+---
+TexawThumb.jpg 
+---
+Texaw.html
