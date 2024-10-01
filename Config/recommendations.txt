@@ -1,23 +1,22 @@
-Name
+Gregory Joseph Caturay
 https://profilepic.png
-Role @ Company
-Month/Day/Year
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sodales justo vitae lacinia ornare. Pellentesque commodo mollis velit, finibus malesuada elit bibendum ut. Mauris sit amet nisi ante. Ut commodo auctor lorem id elementum. Ut at arcu congue, dictum est a, egestas neque. Aenean ipsum ipsum, elementum sit amet vehicula eu, congue sit amet risus. Aliquam a sem ac eros feugiat blandit vestibulum non diam.
+CEO - Dapphaus 
+01/07/2024
+Tyler’s pseudonym says it all, he truly is “Von Pixel”, from the Noble family of the Pixel. An ace 3D modeller and developer at the top of his game., I have the pleasure of learning from, and working with, Tyler on the creative execution of 3D modelling in Unity, Unreal and other digital art forms. 
 ---
-Name
-https://profilepic.png
-Role @ Company
-Month/Day/Year
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sodales justo vitae lacinia ornare. Pellentesque commodo mollis velit, finibus malesuada elit bibendum ut. Mauris sit amet nisi ante. Ut commodo auctor lorem id elementum. Ut at arcu congue, dictum est a, egestas neque. Aenean ipsum ipsum, elementum sit amet vehicula eu, congue sit amet risus. Aliquam a sem ac eros feugiat blandit vestibulum non diam.
+
 ---
-Name
+
+David Boon
 https://profilepic.png
-Role @ Company
-Month/Day/Year
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sodales justo vitae lacinia ornare. Pellentesque commodo mollis velit, finibus malesuada elit bibendum ut. Mauris sit amet nisi ante. Ut commodo auctor lorem id elementum. Ut at arcu congue, dictum est a, egestas neque. Aenean ipsum ipsum, elementum sit amet vehicula eu, congue sit amet risus. Aliquam a sem ac eros feugiat blandit vestibulum non diam.
+Senior Unity Developer
+01/07/2024
+Tyler is an incredibly gifted and talented 3D artist, but is also able to create art that can be easily adapted into an efficient and usable state for games and simulations. He was able to very quickly and efficiently create an array of mechanical and environmental assets in a surprisingly short timeline, and single handedly pulled the that portion of the project out of the fire. Without him our team would have been unable to finish our project on time, let alone have it look so polished and beautiful.
+
 ---
-Name
+
+Chris Hodge
 https://profilepic.png
-Role @ Company
-Month/Day/Year
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sodales justo vitae lacinia ornare. Pellentesque commodo mollis velit, finibus malesuada elit bibendum ut. Mauris sit amet nisi ante. Ut commodo auctor lorem id elementum. Ut at arcu congue, dictum est a, egestas neque. Aenean ipsum ipsum, elementum sit amet vehicula eu, congue sit amet risus. Aliquam a sem ac eros feugiat blandit vestibulum non diam.
+Senior Unity Developer
+06/06/2021
+Tyler is a very skilled 3D Artist. He can visualize problems, and face them head on with his creative approach. I've learned a great deal from him in my 5 years of working with him. He's kind, and patient, and willing to share his knowledge to empower others. A true team player. I'm always impressed with the work he does, on -- and off the job.
